@@ -1,4 +1,4 @@
-# todoapp
+# FoodAppUI
 
 A new Flutter project.
 
